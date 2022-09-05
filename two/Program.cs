@@ -47,3 +47,4 @@ void PrintArray(int[,] array)
         Console.Write("]");
         Console.WriteLine("");
     }
+}
